@@ -1,0 +1,12 @@
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\bin\Debug\TestWinforms.exe.config
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\bin\Debug\TestWinforms.exe
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\bin\Debug\TestWinforms.pdb
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.csproj.AssemblyReference.cache
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.Form1.resources
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.Properties.Resources.resources
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.csproj.GenerateResource.cache
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.csproj.CoreCompileInputs.cache
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.exe
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.pdb
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.csproj.ResolveComReference.cache
+C:\Users\91878\source\repos\TestWinforms\TestWinforms\obj\Debug\TestWinforms.Form2.resources
